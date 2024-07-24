@@ -1,7 +1,7 @@
 ### Spring Web MVC 구현하기<br><br>
 
 <b>Goal : 게시판 실습</b><br>
-<b>Start Date : 2024-07-24</b><br>
+<b>Start Date : 2024-07-24</b><br><br>
 
 <b>2024-07-24</b>
 <ul>
