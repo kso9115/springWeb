@@ -1,10 +1,10 @@
 # Spring Web MVC 구현하기<br>
 
 ### Goal : 게시판 실습
-### Start Date : 게시판 실습<br><br>
+### Start Date : 2024-07-24<br><br>
 <hr>
 
-### 2024-07-24
+<b>2024-07-24</b>
 <ul>
   <li>환경설정,서버 세팅</li>
   <li>GitHub 연동</li>
