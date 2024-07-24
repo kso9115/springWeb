@@ -22,7 +22,7 @@ public class Ex01_Servlet extends HttpServlet {
         // TODO Auto-generated constructor stub
     }
 
-    // 깃허브테스트~!읭?
+    // 깃허브테스트~!읭?ddd
     
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
